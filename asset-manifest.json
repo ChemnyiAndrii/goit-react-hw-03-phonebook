@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/css/main.c953b011.chunk.css",
+    "main.js": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/main.ff9de5bf.chunk.js",
+    "main.js.map": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/main.ff9de5bf.chunk.js.map",
+    "runtime-main.js": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/runtime-main.c758721f.js",
+    "runtime-main.js.map": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/runtime-main.c758721f.js.map",
+    "static/js/2.7230139d.chunk.js": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/2.7230139d.chunk.js",
+    "static/js/2.7230139d.chunk.js.map": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/2.7230139d.chunk.js.map",
+    "static/js/3.04e5d5ef.chunk.js": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/3.04e5d5ef.chunk.js",
+    "static/js/3.04e5d5ef.chunk.js.map": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/3.04e5d5ef.chunk.js.map",
+    "index.html": "/ChemnyiAndrii/goit-react-hw-03-phonebook/index.html",
+    "static/css/main.c953b011.chunk.css.map": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/css/main.c953b011.chunk.css.map",
+    "static/js/2.7230139d.chunk.js.LICENSE.txt": "/ChemnyiAndrii/goit-react-hw-03-phonebook/static/js/2.7230139d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c758721f.js",
+    "static/js/2.7230139d.chunk.js",
+    "static/css/main.c953b011.chunk.css",
+    "static/js/main.ff9de5bf.chunk.js"
+  ]
+}
